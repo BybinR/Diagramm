@@ -1,1 +1,1 @@
-# Diagrams and documentation The Bybin.docx file contains the project itself. The dia folder contains the sources from which the illustrations were taken. The pic folder contains the illustrations themselves.
+# Diagrams and documentation The Bybin.docx file contains the project itself. The diagrames folder contains the sources from which the illustrations were taken.
